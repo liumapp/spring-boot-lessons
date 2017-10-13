@@ -1,7 +1,7 @@
 ﻿# 简书整套文档以及源码解析
 这是我转载自yuqiyu的项目，他整理的SpringBoot教程相当完整，分享到Github供大家学习。
 
-#### [我的简书主页](http://jianshu.yuqiyu.com)
+#### [他的简书主页](http://jianshu.yuqiyu.com)
 
 # 一、基础
 #### [第一章：用一个HelloWord来阐述SpringBoot的简单与快速](http://www.jianshu.com/p/2a37c26d1928)
